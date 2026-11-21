@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"com.student.scholarship","l":"App"},{"p":"com.student.scholarship","l":"BudgetStudent"},{"p":"com.student.scholarship","l":"PaidStudent"},{"p":"com.student.scholarship","l":"SessionResult"},{"p":"com.student.scholarship","l":"Student"}];updateSearchResults();
