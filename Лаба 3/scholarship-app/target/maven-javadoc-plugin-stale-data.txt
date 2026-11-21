@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/unik/vvrpo/Лаба 3/scholarship-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/unik/vvrpo/Лаба 3/scholarship-app/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'scholarship-app 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'scholarship-app 1.0-SNAPSHOT API'
+com.student.scholarship
+D:\unik\vvrpo\Лаба 3\scholarship-app\src\main\java = 1792791471668
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\allclasses-index.html = 1792829357612
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\allpackages-index.html = 1792829357615
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\element-list = 1792829357534
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\help-doc.html = 1792829357657
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\index-all.html = 1792829357644
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\index.html = 1792829357652
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\member-search-index.js = 1792829357624
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\module-search-index.js = 1792829357617
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\overview-tree.html = 1792829357595
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\package-search-index.js = 1792829357619
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\search.html = 1792829357649
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\tag-search-index.js = 1792829357626
+D:\unik\vvrpo\Лаба 3\scholarship-app\target\reports\apidocs\type-search-index.js = 1792829357622
